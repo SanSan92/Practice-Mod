@@ -1,2 +1,2 @@
-# Practice-Mod
-A practice mod in order to test things out in minecraft
+# Master
+# Nothing to see here
